@@ -1,7 +1,7 @@
 {
-  "client_id": "https://develoguard.github.io/tpi-llm-router-oauth/elevenlabs.json",
+  "client_id": "https://praximant.github.io/tpi-llm-router-oauth/elevenlabs.json",
   "client_name": "TPI LLM Router ElevenLabs",
-  "client_uri": "https://develoguard.github.io/tpi-llm-router-oauth/",
+  "client_uri": "https://praximant.github.io/tpi-llm-router-oauth/",
   "redirect_uris": [
     "https://tpi1-node1.fiordland-pangolin.ts.net/oauth/elevenlabs/callback"
   ],
